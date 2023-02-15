@@ -105,8 +105,6 @@
     }
   },
   "defaultProject": "OI"
-  "assets": [
-  "src/_redirects"
-]
+
 
 }
